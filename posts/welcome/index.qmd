@@ -1,0 +1,12 @@
+---
+title: "Adipwolii"
+author: "Daison K Daniel"
+date: "2024-08-06"
+categories: [views]
+---
+
+This is the first adipwoli post in a Quarto blog. Welcome to my world
+
+![](thumbnaill.jpg)
+
+Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
