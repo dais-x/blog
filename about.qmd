@@ -1,19 +1,19 @@
 ---
 title: "About"
-image: profile.jpg
+image: DP.jpg
 about:
   template: jolla
   links:
     - icon: twitter
       text: Twitter
-      href: https://twitter.com
+      href: https://x.com/_Daisu__
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/daison-k-daniel
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/dais-x
 
 ---
 
-About this blog
+This blog is full of my view to them
